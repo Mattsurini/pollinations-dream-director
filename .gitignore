@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local caches and credentials
+.cache/
+.env
+*.env
+.pollinations/
+credentials.json
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node scratch
+node_modules/
+
+# Do not ignore demo assets: examples/**/*.mp3 and .png are intentional outputs

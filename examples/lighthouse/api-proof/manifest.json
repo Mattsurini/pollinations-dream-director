@@ -1,0 +1,61 @@
+{
+  "captured_at": "2026-11-23T10:43:32+00:00",
+  "note": "Real responses from the live Pollinations gateway. Anonymous access serves cached canonical prompts only; a key unlocks new prompts.",
+  "records": [
+    {
+      "kind": "audio",
+      "prompt": "hello world",
+      "endpoint": "/audio/{text}",
+      "status": "captured",
+      "file": "tts-hello-world.mp3",
+      "model": "openai/tts-1",
+      "bytes": 17598,
+      "sha256": "615a385580cfc6d3abacb3ab14b4020bd26c1378950e218517fc2f8d0ab38011",
+      "source": "pollinations"
+    },
+    {
+      "kind": "audio",
+      "prompt": "hello",
+      "endpoint": "/audio/{text}",
+      "status": "captured",
+      "file": "tts-hello.mp3",
+      "model": "openai/tts-1",
+      "bytes": 21359,
+      "sha256": "c25b957a2c3ca66bc9710b0baca818bb314bc7ce0e18dcb30d62cf41fa345339",
+      "source": "pollinations"
+    },
+    {
+      "kind": "audio",
+      "prompt": "hi",
+      "endpoint": "/audio/{text}",
+      "status": "captured",
+      "file": "tts-hi.mp3",
+      "model": "openai/tts-1",
+      "bytes": 40979,
+      "sha256": "feb06a0933f1ea2aef5373bd46751c737606eb03340a0d58dc4a2ca939eda4c4",
+      "source": "pollinations"
+    },
+    {
+      "kind": "audio",
+      "prompt": "test",
+      "endpoint": "/audio/{text}",
+      "status": "captured",
+      "file": "tts-test.mp3",
+      "model": "openai/tts-1",
+      "bytes": 40979,
+      "sha256": "40a0e83a18352bcc221ba83fd8acfe3f157c83f955959080ef6ef1f9ad534655",
+      "source": "pollinations"
+    },
+    {
+      "kind": "text",
+      "prompt": "Say hello in one sentence",
+      "endpoint": "/v1/chat/completions",
+      "status": "captured",
+      "file": "text-say-hello-in-one-sentence.txt",
+      "model": "openai/gpt-5.4-nano",
+      "bytes": 6,
+      "sha256": "334d016f755cd6dc58c53a86e183882f8ec14f52fb05345887c8a5edd42c87b7",
+      "source": "pollinations"
+    }
+  ]
+}

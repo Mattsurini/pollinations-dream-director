@@ -1,0 +1,49 @@
+{
+  "project_id": "103e3ae6f839",
+  "title": "The Last Light",
+  "visual_grammar": "Amber key light, teal fill, long lenses, patient compositions.",
+  "shots": [
+    {
+      "id": "s01",
+      "title": "The Arrival",
+      "camera": "wide establishing frame, slow push-in",
+      "duration_seconds": 5,
+      "image_prompt": "Cinematic film still, the arrival, wide establishing frame, slow push-in, establishing mood, subject: a lighthouse keeper who remembers every ship lost at sea, and the one light that never goes out. Consistent character design and warm amber/teal palette, 35mm anamorphic, shallow depth of field, subtle film grain."
+    },
+    {
+      "id": "s02",
+      "title": "The Signal",
+      "camera": "medium shot, handheld drift",
+      "duration_seconds": 5,
+      "image_prompt": "Cinematic film still, the signal, medium shot, handheld drift, anticipation mood, subject: a lighthouse keeper who remembers every ship lost at sea, and the one light that never goes out. Consistent character design and warm amber/teal palette, 35mm anamorphic, shallow depth of field, subtle film grain."
+    },
+    {
+      "id": "s03",
+      "title": "The Crossing",
+      "camera": "tracking shot, lateral movement",
+      "duration_seconds": 5,
+      "image_prompt": "Cinematic film still, the crossing, tracking shot, lateral movement, tension mood, subject: a lighthouse keeper who remembers every ship lost at sea, and the one light that never goes out. Consistent character design and warm amber/teal palette, 35mm anamorphic, shallow depth of field, subtle film grain."
+    },
+    {
+      "id": "s04",
+      "title": "The Ledger",
+      "camera": "close-up, shallow depth of field",
+      "duration_seconds": 5,
+      "image_prompt": "Cinematic film still, the ledger, close-up, shallow depth of field, intimate mood, subject: a lighthouse keeper who remembers every ship lost at sea, and the one light that never goes out. Consistent character design and warm amber/teal palette, 35mm anamorphic, shallow depth of field, subtle film grain."
+    },
+    {
+      "id": "s05",
+      "title": "The Reckoning",
+      "camera": "low angle, slow crane",
+      "duration_seconds": 5,
+      "image_prompt": "Cinematic film still, the reckoning, low angle, slow crane, climax mood, subject: a lighthouse keeper who remembers every ship lost at sea, and the one light that never goes out. Consistent character design and warm amber/teal palette, 35mm anamorphic, shallow depth of field, subtle film grain."
+    },
+    {
+      "id": "s06",
+      "title": "The Afterimage",
+      "camera": "locked-off wide, long hold",
+      "duration_seconds": 5,
+      "image_prompt": "Cinematic film still, the afterimage, locked-off wide, long hold, resolution mood, subject: a lighthouse keeper who remembers every ship lost at sea, and the one light that never goes out. Consistent character design and warm amber/teal palette, 35mm anamorphic, shallow depth of field, subtle film grain."
+    }
+  ]
+}

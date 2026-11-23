@@ -1,0 +1,112 @@
+{
+  "project_id": "103e3ae6f839",
+  "title": "The Last Light",
+  "generated_at": "2026-11-23T10:33:15+00:00",
+  "auth": {
+    "source": "none",
+    "authenticated": false
+  },
+  "capabilities": {
+    "text": {
+      "enabled": true,
+      "model": "openai/gpt-oss-20b",
+      "count": 0
+    },
+    "audio": {
+      "enabled": true,
+      "model": "openai/tts-1",
+      "count": 0
+    },
+    "image": {
+      "enabled": false,
+      "model": "black-forest-labs/flux.1-schnell",
+      "count": 0
+    },
+    "video": {
+      "enabled": false,
+      "model": "alibaba/wan-2.2-fast",
+      "count": 0
+    }
+  },
+  "assets": [
+    {
+      "shot_id": "s01",
+      "seed": 1012697843,
+      "duration": 5,
+      "audio": {
+        "status": "unavailable",
+        "reason": "auth_required: A valid API key is required. Get one at https://enter.pollinations.ai/keys, or buy one with USDC (x402) at https://enter"
+      },
+      "image": {
+        "status": "unavailable",
+        "reason": "API key required"
+      }
+    },
+    {
+      "shot_id": "s02",
+      "seed": 402706612,
+      "duration": 5,
+      "audio": {
+        "status": "unavailable",
+        "reason": "auth_required: A valid API key is required. Get one at https://enter.pollinations.ai/keys, or buy one with USDC (x402) at https://enter"
+      },
+      "image": {
+        "status": "unavailable",
+        "reason": "API key required"
+      }
+    },
+    {
+      "shot_id": "s03",
+      "seed": 1000781428,
+      "duration": 5,
+      "audio": {
+        "status": "unavailable",
+        "reason": "auth_required: A valid API key is required. Get one at https://enter.pollinations.ai/keys, or buy one with USDC (x402) at https://enter"
+      },
+      "image": {
+        "status": "unavailable",
+        "reason": "API key required"
+      }
+    },
+    {
+      "shot_id": "s04",
+      "seed": 962466174,
+      "duration": 5,
+      "audio": {
+        "status": "unavailable",
+        "reason": "auth_required: A valid API key is required. Get one at https://enter.pollinations.ai/keys, or buy one with USDC (x402) at https://enter"
+      },
+      "image": {
+        "status": "unavailable",
+        "reason": "API key required"
+      }
+    },
+    {
+      "shot_id": "s05",
+      "seed": 1971866304,
+      "duration": 5,
+      "audio": {
+        "status": "unavailable",
+        "reason": "auth_required: A valid API key is required. Get one at https://enter.pollinations.ai/keys, or buy one with USDC (x402) at https://enter"
+      },
+      "image": {
+        "status": "unavailable",
+        "reason": "API key required"
+      }
+    },
+    {
+      "shot_id": "s06",
+      "seed": 207226171,
+      "duration": 5,
+      "audio": {
+        "status": "unavailable",
+        "reason": "auth_required: A valid API key is required. Get one at https://enter.pollinations.ai/keys, or buy one with USDC (x402) at https://enter"
+      },
+      "image": {
+        "status": "unavailable",
+        "reason": "API key required"
+      }
+    }
+  ],
+  "model_catalog_size": 488
+}
